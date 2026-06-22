@@ -81,9 +81,7 @@ function Hero() {
           <button>Instagram</button>
         </a>
 
-       <a href="/resume.pdf" target="_blank" rel="noreferrer">
-  <button>Resume</button>
-</a>
+       
       </div>
     </section>
   );

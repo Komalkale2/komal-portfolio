@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Poppins, sans-serif;
+  background: #f8f5f2;
+  color: #2d2d2d;
+}
+
+section {
+  padding: 60px 20px;
+}
+
+h1 {
+  color: #5C4033;
+}
+
+h2 {
+  color: #B88647;
+}
+
+button {
+  background: #5C4033;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
